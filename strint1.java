@@ -1,9 +1,9 @@
 public static void main(String[] args) {
-        String s="madam";
+        String s1="madam";
         int n,i,t1;
-        char[] a=s.toCharArray();
-        int t=s.length();
-        for(i=0;i<t;i++){
+        char[] a=s1.toCharArray();
+        int t2=s.length();
+        for(i=0;i<t2;i++){
          t1=(int)a[i]; 
             System.out.println(t1);
     }
